@@ -2,7 +2,7 @@
 Detection of COVID-19 from X-ray images and training Convolutional Neural Network(CNN)
 
 
-In this webinar, we will discuss how you can make your own machine learning to successfully detect COVID-19 from Chest X-Rays by building a Simple Convolution Neural Network. 
+In this project, it is shown how you can make your own machine learning to successfully detect COVID-19 from Chest X-Rays by building a Simple Convolution Neural Network. 
 - Dataset Preparation
 - Understanding the Dataset
 - Building a CNN
