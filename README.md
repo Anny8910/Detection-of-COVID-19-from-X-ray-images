@@ -8,8 +8,8 @@ In this project, it is shown how you can make your own machine learning to succe
 - Building a CNN
 - Model Training
 
-Dataset Details
--------------------------
+Dataset Details:
+
 We will sample our dataset from the following.
 
 Covid X-Ray Image Dataset - https://github.com/ieee8023/covid-chestxray-dataset for positive cases.
